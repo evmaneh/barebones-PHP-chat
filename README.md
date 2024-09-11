@@ -6,6 +6,9 @@ A custom chat page that uses usernames in chat, and saves chatlogs to another te
 Custom bot commands, and bot settings
 An admin panel with a ban function and logs for feedback, sent by the bot in the chat!
 
+### ToDo
+Reporting system sending info to admin.php
+
 ### Setup
 Using php, upload these files to port 8080!
 Works for codesandbox
