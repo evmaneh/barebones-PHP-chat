@@ -6,7 +6,7 @@ if (!isset($_SESSION['username'])) {
     exit;
 }
 
-header('Location: place.php');
+header('Location: chat.php');
 exit;
 ?>
 
