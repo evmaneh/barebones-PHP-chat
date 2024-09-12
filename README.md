@@ -7,10 +7,11 @@ Custom bot commands, and bot settings
 An admin panel with a ban function and logs for feedback, sent by the bot in the chat!
 
 ### ToDo
-Reporting system sending info to admin.php
-IP logging
-Profile pictures/descriptions
-Rank permissions
+Reporting system sending info to admin.php,
+IP logging,
+Profile pictures/descriptions,
+Rank permissions,
+IP banning system
 
 ### Setup
 Using php, upload these files to port 8080!
