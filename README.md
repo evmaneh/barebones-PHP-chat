@@ -8,6 +8,8 @@ An admin panel with a ban function and logs for feedback, sent by the bot in the
 
 ### ToDo
 Reporting system sending info to admin.php
+IP logging
+Profile pictures/descriptions
 
 ### Setup
 Using php, upload these files to port 8080!
