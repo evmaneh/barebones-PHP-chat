@@ -10,6 +10,7 @@ An admin panel with a ban function and logs for feedback, sent by the bot in the
 Reporting system sending info to admin.php
 IP logging
 Profile pictures/descriptions
+Rank permissions
 
 ### Setup
 Using php, upload these files to port 8080!
